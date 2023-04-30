@@ -39,41 +39,65 @@ It also helps you manage your accounts more efficiently, as you can easily switc
  
 
 <h2><strong> Amazing Features</strong></h2>
-<ul>
+✅Installation file—-for easy use
 
-       <li><p><strong>✅Installation file</strong>---for easy use</p></li>
-	   <li><p><strong>✅Activate</strong></p>---No need to contact us, just use the purchase code to activate</li>
-	   <li><p><strong>✅Multi-Accounts Login</strong>---Support Multi-Whatsapp Accounts Login</p></li>
-	   <li><p><strong>✅Bulk Session Save</strong>---Support bulk session saving without repeated login</p></li>
-	   <li><p><strong>✅Auto Session Save</strong>---Support auto save session</p></li>
-	   <li><p><strong>✅Warmer Multiple whatsapp accounts</strong>---Support preheating all your whatsapp accounts</p></li>
-	   <li><p><strong>✅Message</strong>---Save message to local db</p></li>
-	   <li><p><strong>✅Bulk Sender</strong>---Multi-account polling to send messages in batches</p></li>
-	   <li><p><strong>✅Bulk Sender with Cloud</strong>---with cloud api support auto bulk sender</p></li>
-	   <li><p><strong>✅SpinTax</strong>---this can help you create more unique content for multiple recipients, improving your overall message deliverability.</p></li>
-	   <li><p><strong>✅Bulk Sender with Cloud</strong>---with cloud api support auto bulk sender</p></li>
-	   <li><p><strong>✅Reduce Ban</strong>---Warm up multiple accounts at the same time to reduce Ban</p></li>
-	   <li><p><strong>✅Maximum send</strong>---Support setting the maximum number of sending,protect the security of your account</p></li>
-	   <li><p><strong>✅Polling sender</strong>---Multiple accounts poll to send messages</p></li>
-	   <li><p><strong>✅Delay Setting</strong>---Each message generates a random delay</p></li>
-		
-	   <li><p><strong>✅Support adding unlimited whatsapp accounts</strong></p></li>
-	   <li><p><strong>✅One-click login to all whatsapp accounts</strong></p></li>
-	   <li><p><strong>✅Support official whatsapp and whatsapp business</strong></p></li>
-	   <li><p><strong>✅You can set an alias for each of your whatsapp accounts</strong></p></li>
-	   <li><p><strong>✅Support Bulk Whatsapp Accounts Login</strong></p></li>
-	   <li><p><strong>✅Securely manage all your whatsapp accounts</strong></p></li>
-	   <li><p><strong>✅Don't install chorme firefox, safari etc.</strong></p></li>
-	   <li><p><strong>✅Support multiple languages </strong></p></li>
-	   <li><p><strong>✅Support English Language </strong></p></li>
-	   <li><p><strong>✅Support Italiano language </strong></p></li>
-	   <li><p><strong>✅Support Deutsch (Deutschland) language </strong></p></li>
-	   <li><p><strong>✅Support Français (France) language </strong></p></li>
-	   <li><p><strong>✅Support 简体中文 language </strong></p></li>
-	   <li><p><strong>✅Manage your account history</strong></p></li>
-	   
+✅Activate
 
-</ul>
+—-No need to contact us, just use the purchase code to activate
+✅Multi-Accounts Login—-Support Multi-Whatsapp Accounts Login
+
+✅Bulk Session Save—-Support bulk session saving without repeated login
+
+✅Auto Session Save—-Support auto save session
+
+✅Warmer Multiple whatsapp accounts—-Support preheating all your whatsapp accounts
+
+✅Message—-Save message to local db
+
+✅Bulk Sender—-Multi-account polling to send messages in batches
+
+✅Bulk Sender with Cloud—-with cloud api support auto bulk sender
+
+✅SpinTax—-this can help you create more unique content for multiple recipients, improving your overall message deliverability.
+
+✅Bulk Sender with Cloud—-with cloud api support auto bulk sender
+
+✅Reduce Ban—-Warm up multiple accounts at the same time to reduce Ban
+
+✅Maximum send—-Support setting the maximum number of sending,protect the security of your account
+
+✅Polling sender—-Multiple accounts poll to send messages
+
+✅Delay Setting—-Each message generates a random delay
+
+✅Support adding unlimited whatsapp accounts
+
+✅One-click login to all whatsapp accounts
+
+✅Support official whatsapp and whatsapp business
+
+✅You can set an alias for each of your whatsapp accounts
+
+✅Support Bulk Whatsapp Accounts Login
+
+✅Securely manage all your whatsapp accounts
+
+✅Don’t install chorme firefox, safari etc.
+
+✅Support multiple languages
+
+✅Support English Language
+
+✅Support Italiano language
+
+✅Support Deutsch (Deutschland) language
+
+✅Support Français (France) language
+
+✅Support 简体中文 language
+
+✅Manage your account history
+
 
 <h2><strong>Screenshot</strong></h2>
 <img src="https://i.ibb.co/QCs8T7q/01.png" alt="Whatsapp Multiple Accounts Warmer Pro 3.0.1" />
